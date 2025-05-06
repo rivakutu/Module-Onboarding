@@ -49,8 +49,9 @@ main {
   max-width: var(--container);
   margin: 0 auto calc(var(--space) * 4) auto;
 }
-footer {
-  position: fixed;
+.wontmove{
+  /*position: fixed;*/
+  margin-top: auto;
   bottom: 0;
   text-align: center;
 }
