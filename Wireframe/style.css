@@ -55,6 +55,9 @@ main {
   bottom: 0;
   text-align: center;
 }
+.wontmove a:hover{
+  color:aliceblue;
+}
 /* ====== Articles Grid Layout ====
 Setting the rules for how articles are placed in the main element.
 Inspect this in Devtools and click the "grid" button in the Elements view
@@ -92,4 +95,7 @@ article {
 h1,h2{
   font-weight: 700;
   color: #957C3D;
+}
+#welcome{
+  font-weight: bold;
 }
