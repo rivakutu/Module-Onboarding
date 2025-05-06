@@ -56,7 +56,7 @@ main {
   text-align: center;
 }
 .wontmove a:hover{
-  color:aliceblue;
+  color:blue;
 }
 /* ====== Articles Grid Layout ====
 Setting the rules for how articles are placed in the main element.
