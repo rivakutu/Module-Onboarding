@@ -97,6 +97,7 @@ h1,h2{
   color: #957C3D;
 }
 #welcome{
+  text-align: center;
   font-weight: bold;
 }
 #wire{
